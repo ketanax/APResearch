@@ -1,0 +1,1 @@
+This repository serves to publize the code used in my AP Research paper on different deep learning architectures on image classification, aswell as the model's parameters so that my results can be verified on another person's computer.
