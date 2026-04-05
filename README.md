@@ -2,6 +2,7 @@ This repository serves to publize the code used in my AP Research paper on diffe
 Additionally, I do not want to take credit for what isn't my own work. Researchers at Microsoft and Facebook created the TinyViT and DeiT architectures I used to evaluate different DLNN architectures.
 
 TinyViT: https://github.com/wkcn/TinyViT
+
 DeiT: https://github.com/facebookresearch/deit/
 
 Because GitHub doesn't allow files larger than 25MB to be uploaded to a repository, the .pth files (model parameters) will be uploaded to a public Google drive so they may be downloaded: (link whenever i feel like doing ts)
