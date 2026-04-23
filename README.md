@@ -5,4 +5,4 @@ TinyViT: https://github.com/wkcn/TinyViT
 
 DeiT: https://github.com/facebookresearch/deit/
 
-Because GitHub doesn't allow files larger than 25MB to be uploaded to a repository, the .pth files (model parameters) will be uploaded to a public Google drive so they may be downloaded: (link whenever i feel like doing ts)
+Because GitHub doesn't allow files larger than 25MB to be uploaded to a repository, the .pth files (model parameters) will be uploaded to a public Google drive so they may be downloaded: https://drive.google.com/drive/folders/1-6QuXyuz-EWmi6eKl3J13WEjeqQAvrRK?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
